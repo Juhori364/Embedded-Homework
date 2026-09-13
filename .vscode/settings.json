@@ -1,5 +1,6 @@
 {
     "nrf-connect.applications": [
         "${workspaceFolder}\\blinky"
-    ]
+    ],
+    "cmake.sourceDirectory": "C:/Users/Juho/Desktop/Embedded-Homework/blinky"
 }
